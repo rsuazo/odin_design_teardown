@@ -45,12 +45,14 @@
 }
 
 h2 {
-  background: rgb(192, 185, 171);
   height: 35%;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 900;
 }
 
 p {
-  background: rgb(133, 117, 117);
   height: 50px;
   clear: left;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 100;
 }
